@@ -3,5 +3,5 @@ this is a modified version of LucasDondo's 0.6.8 OC with something else (i would
 <h1>update oc</h1>
 <p>click <a href="https://dortania.github.io/OpenCore-Post-Install/universal/update.html">here</a>.</p>
 it's better than if i'd say it with my words
-##ventura
+## ventura
 <p>i have a ventura efi ready but i havent tested it yet</p>
